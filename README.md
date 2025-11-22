@@ -63,8 +63,10 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-data-analysis&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/bhavya-data-analysis/bhavya-data-analysis/main/dist/github-contribution-grid-snake.svg)
+
+### 🐍 Contribution Graph Snake
+
+![snake gif](https://raw.githubusercontent.com/bhavya-data-analysis/bhavya-data-analysis/output/github-snake.svg)
 
 
 ### 🔹 AI-680 Labs (Artificial Intelligence – LIU)
