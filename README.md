@@ -15,6 +15,39 @@
 - **AI & Search Algorithms:** A*, BFS, DFS, Minimax, Alpha-Beta, CSP, Bayesian Networks  
 - **Other:** GitHub, Netlify, Prompt Engineering
 
+## 🛠️ Tools & Technologies
+---
+
+🌀 Programming & Data Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C92?style=for-the-badge&logoColor=white)
+
+
+---
+
+🌀 Machine Learning & AI Tools
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![StatsModels](https://img.shields.io/badge/-StatsModels-1A2C34?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+
+---
+
+🌀 Visualization & BI
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C8BBF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+
+---
+🌀 Dev Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000)
+
+
+
 ---
 
 ## 📁 Featured Projects
