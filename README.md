@@ -72,7 +72,7 @@ Exploratory data analysis on how screen time affects sleep patterns and stress l
 
 ### 🔹 University Admission Prediction (Regression Model)
 Built a regression model to predict graduate admissions using GPA, GRE, and research experience.  
-📂 Repo: https://github.com/bhavya-data-analysis/Admissions-ML
+📂 Repo: https://github.com/bhavya-data-analysis/university-admission-prediction-ml
 
 ## 🚧 Currently Working On
 - Upgrading ML projects with better documentation  
