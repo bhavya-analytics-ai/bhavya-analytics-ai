@@ -60,7 +60,7 @@
 
 ### 🔹 Fake News Detection (Machine Learning)
 Classifies real vs fake news using TF-IDF + Logistic Regression.  
-📂 Repo: https://github.com/bhavya-data-analysis/Fake-News-Detection
+📂 Repo: https://github.com/bhavya-data-analysis/fake-news-detection-lstm
 
 ### 🔹 Quantium Retail Analytics (Business Case Study)
 Analyzed customer purchasing patterns, performed uplift testing, and generated insights for trial stores.  
