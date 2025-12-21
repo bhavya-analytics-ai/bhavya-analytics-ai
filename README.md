@@ -65,7 +65,8 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ### 📊 X-Company AI Sales Dashboard
 | Description | Preview |
 |------------|---------|
-| Executive-style analytics dashboard built to surface sales KPIs, performance trends, and business insights. Designed with a strong emphasis on clarity, stakeholder usability, and data storytelling. | _Preview coming soon_ |
+| Executive-style analytics dashboard built to surface sales KPIs, performance trends, and business insights. Designed with a strong emphasis on clarity, stakeholder usability, and data storytelling. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/X_Company-AI-Sales-Dashboard/main/Sales_Dashboard.png" width="260"/>
+ |
 🔗 https://github.com/bhavya-data-analysis/X_Company-AI-Sales-Dashboard
 
 ---
