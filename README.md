@@ -31,7 +31,8 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ### 📰 Fake News Detection — Applied Machine Learning
 | Description | Preview |
 |------------|---------|
-| End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Focuses on text preprocessing, model evaluation, and deployment-ready pipelines using reproducible artifacts. | _Preview coming soon_ |
+| End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Focuses on text preprocessing, model evaluation, and deployment-ready pipelines using reproducible artifacts. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/Fake-News-Detection-app/79460d9d8c33656bd58a26721c4801f813752eee/Fake_News_Cloud_Dashboard.png" width="260"/>
+ |
 🔗 https://github.com/bhavya-data-analysis/Fake-News-Detection-app
 
 ---
