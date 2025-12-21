@@ -8,9 +8,9 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ---
 
 ## 🚀 What I Work On
-I build **end-to-end data science and machine learning projects** — from data preprocessing and feature engineering to modeling, evaluation, and deployment.
-
-My work focuses on **practical ML systems**, statistical reasoning, reinforcement learning, and analytics that support real decisions.
+- Building **end-to-end data science and machine learning projects** — from data preprocessing and feature engineering to modeling, evaluation, and deployment.  
+- Performing **data analysis and exploratory analysis** to uncover patterns, trends, and insights from real-world datasets.  
+- Developing **analytics, dashboards, and ML-driven solutions** that support practical, data-backed decision making.
 
 ---
 
@@ -18,63 +18,61 @@ My work focuses on **practical ML systems**, statistical reasoning, reinforcemen
 - **Programming:** Python, SQL, R  
 - **Machine Learning:** Logistic & Linear Regression, Decision Trees, CNNs, Time-Series Models, Reinforcement Learning (PPO)  
 - **Data Science:** EDA, Feature Engineering, Model Evaluation  
+- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis, Trend & KPI Analysis  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
 - **AI Concepts:** Search Algorithms (BFS, DFS, A*, Minimax), Bayesian Networks  
 - **Tools:** Scikit-Learn, TensorFlow, Pandas, Git, Streamlit, Jupyter  
+
 
 ---
 
 ## 📌 Selected Projects
 
 ### 📰 Fake News Detection — Applied Machine Learning
-<img src="Fake-News-Detection-app/assets/dashboard.png" width="450"/>
-
-End-to-end text classification system comparing classical ML and deep learning approaches.  
-Focus on **data preprocessing, model evaluation, and deployment**.  
+| Description | Preview |
+|------------|---------|
+| End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Focuses on text preprocessing, model evaluation, and deployment-ready pipelines using reproducible artifacts. | _Preview coming soon_ |
 🔗 https://github.com/bhavya-data-analysis/Fake-News-Detection-app
 
 ---
 
 ### 📈 RL-Forex — Reinforcement Learning Trading Agent
-<img src="rl-forex/assets/trading-results.png" width="450"/>
-
-Reinforcement learning agent for simulated forex trading using PPO.  
-Explores **environment design, reward shaping, and policy evaluation**.  
+| Description | Preview |
+|------------|---------|
+| Reinforcement learning agent for simulated forex trading using PPO. Emphasizes environment design, reward shaping, and evaluation of policy behavior across different market conditions. | _Preview coming soon_ |
 🔗 https://github.com/bhavya-data-analysis/rl-forex
 
 ---
 
 ### 🧠 AI-680 Labs — Intelligent Agents & Search
-<img src="AI-680-Lab/assets/search-tree.png" width="450"/>
-
-Graduate-level implementations of search algorithms, game-playing agents, and probabilistic models.  
+| Description | Preview |
+|------------|---------|
+| Graduate-level implementations of intelligent agents and classical AI algorithms, including informed and uninformed search, game-playing agents, and probabilistic reasoning models. | _Preview coming soon_ |
 🔗 https://github.com/bhavya-data-analysis/AI-680-Lab
 
 ---
 
-### 🌐 Data Science Portfolio Website
-<img src="my-portfolio/public/images/fake-news-dashboard.png" width="450"/>
-
-Personal portfolio showcasing ML projects and analytics case studies.  
-🔗 https://github.com/bhavya-data-analysis/my-portfolio
-
----
-
 ### ✉️ Send-It — AI Text Intelligence Application
-<img src="send-it/assets/app-ui.png" width="450"/>
-
-AI-powered text rewriting tool focusing on applied NLP systems.  
+| Description | Preview |
+|------------|---------|
+| AI-powered text rewriting application designed to transform raw user input into clearer, professional, or neutral language. Built as a user-facing NLP system with a FastAPI backend and prompt-driven logic. | _Preview coming soon_ |
 🔗 https://github.com/bhavya-data-analysis/send-it
 
 ---
 
 ### 📊 X-Company AI Sales Dashboard
-<img src="X_Company-AI-Sales-Dashboard/assets/dashboard.png" width="450"/>
-
-Executive-style analytics dashboard tracking KPIs and performance trends.  
+| Description | Preview |
+|------------|---------|
+| Executive-style analytics dashboard built to surface sales KPIs, performance trends, and business insights. Designed with a strong emphasis on clarity, stakeholder usability, and data storytelling. | _Preview coming soon_ |
 🔗 https://github.com/bhavya-data-analysis/X_Company-AI-Sales-Dashboard
 
 ---
+
+### 🌐 Personal Portfolio Website
+| Description | Preview |
+|------------|---------|
+| Personal data science portfolio showcasing machine learning projects, analytics dashboards, and case studies with a recruiter-focused layout and clean visual storytelling. | _Preview coming soon_ |
+🔗 https://github.com/bhavya-data-analysis/my-portfolio
 
 ## 📊 GitHub Activity
 
