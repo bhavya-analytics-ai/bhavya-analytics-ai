@@ -108,5 +108,5 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 ## 📫 Connect
 - 📧 <strong>bhavyapandya005@gmail.com</strong>  
 - 🔗 LinkedIn: https://www.linkedin.com/in/bhavya-91p/  
-- 💻 GitHub: https://github.com/bhavya-data-analysis  
+- 💻 GitHub: https://github.com/bhavya-analytics-ai 
 - 🌐 Portfolio: https://bhavya-pandya-portfolio.vercel.app
