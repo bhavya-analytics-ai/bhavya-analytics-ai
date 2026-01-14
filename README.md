@@ -100,7 +100,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 
 ### 🐍 Contribution Graph
 <p>
-  <img src="https://raw.githubusercontent.com/bhavya-data-analysis/bhavya-data-analysis/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bhavya-analytics-ai/bhavya-analytics-ai/output/github-snake.svg" />
 </p>
 
 ---
