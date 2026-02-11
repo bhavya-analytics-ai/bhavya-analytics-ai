@@ -31,7 +31,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | Human-in-the-loop generative design system that records accept/reject design decisions and adapts future architectural massing outputs. Includes persistent preference memory and explainable mappings from human feedback to system behavior. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/human-ai-co-creative-design
+🔗 https://github.com/bhavya-analytics-ai/human-ai-co-creative-design
 
 ---
 
