@@ -39,7 +39,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | Sales performance diagnostics and reporting system designed to surface KPIs, performance gaps, and decision-relevant business insights through clear analytics and dashboards. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/Sales-Performance-Diagnostics-Reporting
+🔗 https://github.com/bhavya-analytics-ai/Sales-Performance-Diagnostics-Reporting
 
 ---
 
@@ -47,7 +47,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | Decision quality and cognitive risk modeling system that converts free-form human decisions into structured representations. Focuses on decision fragility, intervention impact, and learning when to intervene versus when to stop. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/reflective-decision-intelligence
+🔗 https://github.com/bhavya-analytics-ai/reflective-decision-intelligence
 
 ---
 
@@ -55,7 +55,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Emphasizes preprocessing, evaluation, and deployment-ready pipelines. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/Fake-News-Detection-app
+🔗 https://github.com/bhavya-analytics-ai/Fake-News-Detection-app
 
 ---
 
@@ -63,7 +63,7 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | Object detection system using YOLOv8 to identify and localize trash in images. Focuses on dataset preparation, model training, and visual evaluation of detection performance. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/Computer-Vision-Project-Trash-Detection-YOLOv8
+🔗 https://github.com/bhavya-analytics-ai/Computer-Vision-Project-Trash-Detection-YOLOv8
 
 ---
 
@@ -71,27 +71,27 @@ Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics 
 | Description | Preview |
 |------------|---------|
 | KPI-focused analytics dashboard designed for monitoring trends and performance with an emphasis on clarity and stakeholder usability. | Preview coming soon |
-🔗 https://github.com/bhavya-data-analysis/JP_Dashboard
+🔗 https://github.com/bhavya-analytics-ai/JP_Dashboard
 
 ---
 
 ## GitHub Activity & Stats
 
 <p align="center">
-  <a href="https://github.com/bhavya-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api?username=bhavya-data-analysis&show_icons=true&theme=transparent&hide_border=true" />
+  <a href="https://github.com/bhavya-analytics-ai">
+    <img src="https://github-readme-stats.vercel.app/api?username=bhavya-analytics-ai&show_icons=true&theme=transparent&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bhavya-data-analysis">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavya-data-analysis&theme=transparent&hide_border=true" />
+  <a href="https://github.com/bhavya-analytics-ai">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavya-analytics-ai&theme=transparent&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bhavya-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-data-analysis&layout=compact&theme=transparent&hide_border=true" />
+  <a href="https://github.com/bhavya-analytics-ai">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-analytics-ai&layout=compact&theme=transparent&hide_border=true" />
   </a>
 </p>
 
