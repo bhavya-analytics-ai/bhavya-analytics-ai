@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/bhavya-91p/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bhavya-pandya-portfolio.vercel.app">
+  <a href="https://bhavya-portfolio-alpha.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:bhavyapandya005@gmail.com">
